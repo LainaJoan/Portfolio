@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<title> Laina Joan </title>
+<link rel="icon" type="image/x-icon" href= "C:/Users/Admin/Downloads/laina2.jpg">
+<style>
+body {
+background-color:#ECF0F1;
+color: #34495E;
+font-family:  calibri;
+}
+h1 {
+background-color: #2C3E50;
+font-family: calibri;
+border:none;
+}
+p {
+padding: 5px;
+}
+dd {
+  color:#2ECC71;
+}
+</style>
+</head>
+<body >
+<h1> A journey of spatial discovery and innovation</h1>
+<dl>
+  <dt>Technical Skills</dt>
+  <dd>.Html,Css, JavaScript</dd>
+  <dd>.Python, R& SQL</dd>
+  <dd>.Web Mapping</dd>
+  <dd> .ArcGIS, QGIS, AutoCAD</dd>
+  <dd>.Excel, Word, PowerPoint</dd>
+  <dd>.Survey</dd>
+  
+  <dt>Projects</dt>
+  <dd>.Baringo County</dd>
+  <dd>.Nairobi County</dd>
+  <dd>.Kisumu County</dd>
+  <dd>.Mombasa County</dd>
+</dl>
+<p>Goal: <q> To become the ultimate GIS destination and to foster a vibrant community of GIS enthusiasts and experts</q></p>
+<address>
+Miss Laina Joan<br>
+<a href= "mailto:lainajoan975@gmail.com">email: lainajoan975@gmail.com</a><br>
+phone: +254724760480<br>
+Nairobi, Kenya
+</body>
+</html>
